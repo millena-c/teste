@@ -12,7 +12,7 @@
 
 o texto foi separado
 
-![].(). (para adicionar alguma imagem já existente na internet)
+![]() (para adicionar alguma imagem já existente na internet)
 
 
 
